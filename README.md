@@ -1,21 +1,16 @@
 # Global Supply Chain & Sales Analytics Dashboard
 
-## 📌 Project Overview
-This end-to-end data analytics project explores enterprise sales performance, profitability trends, and multi-channel distribution metrics. The interactive dashboard enables business stakeholders to evaluate revenue growth across regional markets, track year-over-year product sales, and optimize distribution channels.
+Interactive Sales & Supply Chain Dashboard evaluating total revenue, gross profit margins, year-over-year sales performance, multi-channel distribution, and regional delivery metrics using Power BI.
 
-## 📊 Key Metrics Tracked
-* **Total Sales:** $3.43M
-* **Total Profit:** $1.26M
-* **Overall Profit Margin:** 36.84%
-* **Total Units Sold:** 2,000+
+## 🛠️ Tools & Technologies
+- **Data Visualization & Dashboarding:** Power BI Desktop
+- **Data Processing & Analysis:** Power Query, DAX, Excel
 
-## 🔍 Key Dashboard Insights
-* **Year-over-Year Performance:** Analyzed Current Year (CY) vs. Prior Year (PY) sales trends by product and monthly distribution.
-* **Geographic Distribution:** Tracked sales concentration across key regions (e.g., Auckland contributing 80.61% of total sales vs. Central Otago at 19.39%).
-* **Channel Efficiency:** Evaluated profit margin percentage variances across Wholesale, Distributor, and Export channels.
-* **Customer Analysis:** Identified top enterprise clients by historical revenue contribution.
+## 🔑 Key Metrics Analyzed
+- Total Revenue, Gross Profit ($1.26M), and Profit Margin (36.84%)
+- Year-over-Year Performance (Current Year vs. Prior Year Sales)
+- Regional Sales Concentration & Delivery Performance
+- Multi-Channel Profitability (Wholesale, Distributor, Export)
 
-## 🛠️ Tools & Technologies Used
-* **Power BI:** Data visualization, interactive dashboard design, DAX measures.
-* **Data Modeling:** Star schema modeling with time-intelligence functions.
-
+## 📊 Dashboard Preview
+![Global Supply Chain Dashboard](global-supply-chain-sales-analytics.png)

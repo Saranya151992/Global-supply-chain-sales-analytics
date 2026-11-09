@@ -11,4 +11,6 @@ Interactive Sales & Supply Chain Dashboard evaluating total revenue, gross profi
 - Year-over-Year Performance (Current Year vs. Prior Year Sales)
 - Regional Sales Concentration & Delivery Performance
 - Multi-Channel Profitability (Wholesale, Distributor, Export)
+- ## 📊 Dashboard Preview
+![Global Supply Chain Dashboard](global-supply-chain-sales-analytics.png)
 

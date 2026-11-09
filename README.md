@@ -17,5 +17,4 @@ This end-to-end data analytics project explores enterprise sales performance, pr
 
 ## 🛠️ Tools & Technologies Used
 * **Power BI:** Data visualization, interactive dashboard design, DAX measures.
-* **SQL:** Data extraction, transformation, and aggregation.
 * **Data Modeling:** Star schema modeling with time-intelligence functions.

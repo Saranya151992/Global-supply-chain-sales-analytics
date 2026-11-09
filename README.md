@@ -18,3 +18,4 @@ This end-to-end data analytics project explores enterprise sales performance, pr
 ## 🛠️ Tools & Technologies Used
 * **Power BI:** Data visualization, interactive dashboard design, DAX measures.
 * **Data Modeling:** Star schema modeling with time-intelligence functions.
+[github.com/Saranya151992/global-supply-chain-sales-analytics](https://github.com/Saranya151992/global-supply-chain-sales-analytics)).
